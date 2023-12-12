@@ -6,15 +6,24 @@
     <a target="_blank" align="center">
       <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
     </a>
-    - 🔭 I’m currently Studying in <a href="https://phoenix.tech/griffyn/" target="blank">Moeslem University of Indonesia</a>
+    ===
+    - 🔭 I’m currently Studying in <a href="https://umi.ac.id/" target="blank">Moeslem University of Indonesia</a>
+    ===
     - 🌱 I’m currently interested in Blockchain and Web3 Developing
+    ===
     - 🤝 I’m available for freelancing.
+    ===
     - 🌱 I’m currently learning Website && UI/UX  <a href="" target="blank">100DaysOfSwift</a>
+    ===
     - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+    ===
     - 💬 Ask me about **Blockchain & Website**
+    ===
     - 📫 How to reach me **alifsafa009@gmail.com**
+    ===
     - 📄 Know about my experiences <a href="https://github.com/alxxxi" target="blank">Resume</a>
     <br/>
+    ====
     <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
      <p align="center">
      <div align="center"  class="icons-social" style="margin-left: 10px;">
