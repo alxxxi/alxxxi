@@ -6,21 +6,21 @@
     <a target="_blank" align="center">
       <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
     </a>
-    ===
+    <br>
     - 🔭 I’m currently Studying in <a href="https://umi.ac.id/" target="blank">Moeslem University of Indonesia</a>
-    ===
+    </br>
     - 🌱 I’m currently interested in Blockchain and Web3 Developing
-    ===
+    <br>
     - 🤝 I’m available for freelancing.
-    ===
+    </br>
     - 🌱 I’m currently learning Website && UI/UX  <a href="" target="blank">100DaysOfSwift</a>
-    ===
+    <br>
     - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-    ===
+    </br>
     - 💬 Ask me about **Blockchain & Website**
-    ===
+    <br>
     - 📫 How to reach me **alifsafa009@gmail.com**
-    ===
+    </br>
     - 📄 Know about my experiences <a href="https://github.com/alxxxi" target="blank">Resume</a>
     <br/>
     ====
