@@ -9,7 +9,7 @@
     <br>
     - 🔭 I’m currently Studying in <a href="https://umi.ac.id/" target="blank">Moeslem University of Indonesia</a>
     </br>
-    - 🌱 I’m currently interested in Blockchain and Web3 Development
+    - 🌱 I’m currently interested in Blockchain and Web3 Development.
     <br>
     - 🤝 I’m available for freelancing.
     </br>
